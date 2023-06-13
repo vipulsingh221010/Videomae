@@ -7,4 +7,10 @@ scores.py : this file contains code for calculating similarity scores using text
 #
 k400test.csv : test dataset for kinetcs400 dataset
 #
-kinetic400_dataset_results.csv: contains precision,accuracy ,f1 score and recall calculated using similarity scores for kinetics dataet
+kinetic400_dataset_results.csv: contains precision,accuracy ,f1 score and recall calculated using similarity scores for kinetics dataset
+#
+ucf_dataset_results.csv: contains precision,accuracy ,f1 score and recall calculated using similarity scores for ucf101 dataset
+#
+kinetics_results.csv : contains precision,accuracy ,f1 score and recall calculated using exact match between predcited class and truth label for kinetics dataset
+#
+ucf101_results.csv : contains precision,accuracy ,f1 score and recall calculated using exact match between predcited class and truth label for ucf101 dataset
