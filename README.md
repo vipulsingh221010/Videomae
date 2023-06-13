@@ -11,6 +11,6 @@ kinetic400_dataset_results.csv: contains precision,accuracy ,f1 score and recall
 #
 ucf_dataset_results.csv: contains precision,accuracy ,f1 score and recall calculated using similarity scores for ucf101 dataset
 #
-kinetics_results.csv : contains precision,accuracy ,f1 score and recall calculated using exact match between predcited class and truth label for kinetics dataset
+kinetics_results.csv : contains precision,accuracy ,f1 score and recall calculated using exact match between predicted class and truth label for kinetics dataset
 #
-ucf101_results.csv : contains precision,accuracy ,f1 score and recall calculated using exact match between predcited class and truth label for ucf101 dataset
+ucf101_results.csv : contains precision,accuracy ,f1 score and recall calculated using exact match between predicted class and truth label for ucf101 dataset
